@@ -29,3 +29,11 @@ yarn.lock
 # ide
 .idea
 *.iml
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.sln.docstates
+*.vssscc
+
