@@ -8,7 +8,7 @@
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-    title: "Kimeng's Blog",
+    title: "Kimeng's Gallery",
     subtitle: "Welcome to FQM's homepage",
     lang: "zh_CN", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
     themeColor: {
@@ -17,7 +17,7 @@ export const siteConfig: SiteConfig = {
     },
     banner: {
         enable: true,
-        src: "https://img.cdn1.vip/i/694fb73f95bbe_1766831935.webp", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+        src: "https://jsd.cdn.zzko.cn/gh/fqm1149/picx-images-hosting@master/14c2722d30935b10524d44749df4fafd824bb1fc.54y8emhun7.webp", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
         position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
         credit: {
             enable: false, // Display the credit text of the banner image
@@ -46,16 +46,16 @@ export const navBarConfig: NavBarConfig = {
         LinkPreset.About,
         {
             name: "GitHub",
-            url: "https://github.com/saicaca/fuwari", // Internal links should not include the base path, as it is automatically added
+            url: "https://github.com/fqm1149", // Internal links should not include the base path, as it is automatically added
             external: true, // Show an external link icon and will open in a new tab
         },
     ],
 };
 
 export const profileConfig: ProfileConfig = {
-    avatar: "https://youke2.picui.cn/s1/2025/12/27/694fb5076c377.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-    name: "Feng Qimeng",
-    bio: "Welcome to Feng Qimeng's Homepage",
+    avatar: "https://jsd.cdn.zzko.cn/gh/fqm1149/picx-images-hosting@master/avatar.8l0k6q1hrn.webp", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+    name: "Fqm",
+    bio: "Welcome to my homepage",
     links: [
         {
             name: "mihoyo account",
