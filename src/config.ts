@@ -17,7 +17,7 @@ export const siteConfig: SiteConfig = {
     },
     banner: {
         enable: true,
-        src: "https://cdn.jsdmirror.com/gh/fqm1149/picx-images-hosting@master/14c2722d30935b10524d44749df4fafd824bb1fc.54y8emhun7.webp", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+        src: "https://cdn.jsdmirror.com/gh/fqm1149/picx-images-hosting@master/Anniv-100d/sunset.6ikw3k48e0.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
         position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
         credit: {
             enable: false, // Display the credit text of the banner image
@@ -53,7 +53,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-    avatar: "https://cdn.jsdmirror.com/gh/fqm1149/picx-images-hosting@master/avatar.8l0k6q1hrn.webp",
+    avatar: "https://cdn.jsdmirror.com/gh/fqm1149/picx-images-hosting@master/Anniv-100d/SH_1.83an30x59y.jpg",
     //avatar: "https://cdn.jsdmirror.com/gh/fqm1149/picx-images-hosting@master/avatar.8l0k6q1hrn.webp", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
     name: "Fqm",
     bio: "Welcome to my homepage",
