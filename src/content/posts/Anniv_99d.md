@@ -1,5 +1,5 @@
 ﻿---
-title: Anniversary: 99d
+title: 'Anniversary: 99d'
 published: 2026-04-23
 description: '99日纪念'
 image: 'https://cdn.jsdmirror.com/gh/fqm1149/picx-images-hosting@master/Anniv-100d/lihu.2dpas0m1nj.jpg'
